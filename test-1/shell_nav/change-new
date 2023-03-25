@@ -1,0 +1,2 @@
+#!/bin/bash
+mv old_school new_school
